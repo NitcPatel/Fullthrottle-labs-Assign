@@ -36,19 +36,21 @@ export default class ListTable extends Component {
     });
   };
 
-  showModal = () => {
-    this.setState({
-      visible: false,
-    });
-  };
+//   showModal = () => {
+//     this.setState({
+//       visible: false,
+//     });
+//   };
 
   handleOk = (e) => {
+    window.location.reload()
     this.setState({
       visible: false,
     });
   };
 
   handleCancel = (e) => {
+    window.location.reload()
     this.setState({
       visible: false,
     });
