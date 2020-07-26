@@ -1,0 +1,44 @@
+{
+  "getTable" : {
+	"members": [
+		{
+		  "id": "W012A3CDE",
+		  "real_name": "Egon Spengler",
+		  "tz": "America/Los_Angeles",
+		  "activity_periods": [
+			{
+			  "start_time": "Thu Feb 15 2020 08:20:00 GMT+0530",
+			  "end_time": "Thu Feb 15 2020 12:30:00 GMT+0530"
+			},
+			{
+				"start_time": "Thu jan 12 2020 09:05:00 GMT+0530",
+				"end_time": "Thu Jan 12 2020 10:45:00 GMT+0530"
+			},
+			{
+				"start_time": "Thu Feb 10 2020 09:20:00 GMT+0530",
+				"end_time": "Thu Feb 10 2020 12:30:00 GMT+0530"
+			}
+		  ]
+		},
+		{
+		  "id": "W07QCRPA4",
+		  "real_name": "Glinda Southgood",
+		  "tz": "Asia/Kolkata",
+		  "activity_periods": [
+			{
+				"start_time": "Thu Feb 12 2020 10:00:00 GMT+0530",
+				"end_time": "Thu Feb 12 2020 10:30:00 GMT+0530"
+			},
+			{
+				"start_time": "Thu Mar 11 2020 11:00:00 GMT+0530",
+				"end_time": "Thu Mar 11 2020 11:45:00 GMT+0530"
+			},
+			{
+				"start_time": "Thu Feb 09 2020 09:00:00 GMT+0530",
+				"end_time": "Thu Feb 09 2020 10:05:00 GMT+0530"
+			}
+		  ]
+		}
+	  ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "episodeTable": {
+    "MemberDetailsList": {
+      "slNo": {
+        "displayName": "Sl No",
+        "display": true
+      },
+      "episodeId": {
+        "displayName": "Id",
+        "display": true
+      },
+      "episodetype": {
+        "displayName": "Type",
+        "display": true
+      },
+      "startDate": {
+        "displayName": "Start Date",
+        "display": true
+      },
+      "endDate": {
+        "displayName": "End Date",
+        "display": true
+      },
+      "ischargeDate": {
+        "displayName": "Discharge Date",
+        "display": true
+      },
+      "LOS": {
+        "displayName": "LOS",
+        "display": true
+      },
+      "initiator": {
+        "displayName": "Initiator",
+        "display": true
+      },
+      "facility": {
+        "displayName": "Facility",
+        "display": true
+      },
+      "dischargeDisposition": {
+        "displayName": "Discharge Disposition",
+        "display": true
+      },
+      "cost": {
+        "displayName": "Cost",
+        "display": true
+      }
+    },
+    "FacilityDetailsList": {
+      "slNo": {
+        "displayName": "Sl No",
+        "display": true
+      },
+      "episodeId": {
+        "displayName": "Episode Id",
+        "display": true
+      },
+      "episodeType": {
+        "displayName": "Episode Type",
+        "display": true
+      },
+      "startDate": {
+        "displayName": "Start Date",
+        "display": true
+      },
+      "endDate": {
+        "displayName": "End Date",
+        "display": true
+      },
+      "patientName": {
+        "displayName": "Patient Name",
+        "display": true
+      },
+      "initiator": {
+        "displayName": "Initiator",
+        "display": true
+      },
+      "state": {
+        "displayName": "State",
+        "display": true
+      },
+      "cost": {
+        "displayName": "Cost",
+        "display": true
+      }
+    },
+    "InitiatorDetailsList": {
+      "slNo": {
+        "displayName": "Sl No",
+        "display": true
+      },
+      "episodeId": {
+        "displayName": "Episode Id",
+        "display": true
+      },
+      "episodetype": {
+        "displayName": "EpisodeType",
+        "display": true
+      },
+      "startDate": {
+        "displayName": "Start Date",
+        "display": true
+      },
+      "endDate": {
+        "displayName": "End Date",
+        "display": true
+      },
+      "patientName": {
+        "displayName": "Patient Name",
+        "display": true
+      },
+      "numberOfReadmission": {
+        "displayName": "No of Readmission",
+        "display": true
+      },
+      "totalLos": {
+        "displayName": "Total LOS",
+        "display": true
+      },
+      "facilityName": {
+        "displayName": "Facility Name",
+        "display": true
+      },
+      "state": {
+        "displayName": "State",
+        "display": true
+      },
+      "cost": {
+        "displayName": "Cost",
+        "display": true
+      },
+      "penaltyIncurred": {
+        "displayName": "Penalty Incurred",
+        "display": true
+      },
+      "age": {
+        "displayName": "Age",
+        "display": false
+      }
+    },
+    "EpisodeDetailsList": {
+      "SlNo": {
+        "displayName": "Sl No",
+        "display": true
+      },
+      "admitDate": {
+        "displayName": "Admit Date",
+        "display": true
+      },
+      "dischargeDate": {
+        "displayName": "Discharge Date",
+        "display": true
+      },
+      "LOS": {
+        "displayName": "LOS",
+        "display": true
+      },
+      "State": {
+        "displayName": "State",
+        "display": true
+      },
+      "diagnosisCode": {
+        "displayName": "DRG",
+        "display": true
+      },
+      "Cost": {
+        "displayName": "Cost",
+        "display": true
+      },
+      "EncounterID": {
+        "displayName": "EncounterID",
+        "display": false
+      },
+      "FacilityIDFk": {
+        "displayName": "FacilityID",
+        "display": false
+      },
+      "TypeOfAdmission": {
+        "displayName": "TOA",
+        "display": true
+      }
+    }
+  }
+}
